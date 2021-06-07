@@ -1,2 +1,2 @@
-FROM httpd:alpine
+FROM httpd
 COPY . /var/www/html
